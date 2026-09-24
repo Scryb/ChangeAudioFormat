@@ -10,6 +10,8 @@ _Example:_
 
 `ChangeAudioFormat -d "External Headphones" -s 48000`
 
+Will exit with an error message if device doesn't exist, doesn't support the sample rate or if an argument is missing.
+
 ### Installation
 
 Use Xcode to build and copy the executable from Xcode's build folder to /usr/local/bin.
