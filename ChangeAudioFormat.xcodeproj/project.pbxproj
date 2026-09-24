@@ -12,6 +12,8 @@
 
 /* Begin PBXFileReference section */
 		000000000000000000000120 /* ChangeAudioFormat */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ChangeAudioFormat; sourceTree = BUILT_PRODUCTS_DIR; };
+		9AF38C6030656D9300BB439F /* License.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = License.md; sourceTree = "<group>"; };
+		9AF38C633065717A00BB439F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -35,6 +37,8 @@
 		000000000000000000000001 = {
 			isa = PBXGroup;
 			children = (
+				9AF38C633065717A00BB439F /* README.md */,
+				9AF38C6030656D9300BB439F /* License.md */,
 				000000000000000000000010 /* ChangeAudioFormat */,
 				000000000000000000000020 /* Products */,
 			);
