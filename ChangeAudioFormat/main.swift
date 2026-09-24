@@ -1,3 +1,10 @@
+/*
+ * Copyright © 2026 Anders Lundberg
+ *
+ * Licensed under the MIT License, see License.md
+ *
+ */
+
 import Foundation
 import SimplyCoreAudio
 
