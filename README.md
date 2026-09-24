@@ -1,6 +1,6 @@
 ## ChangeAudioFormat
 
-Simple command line tool to change the sample rate of any connected audio device on macOS.
+Simple command line tool to change the sample rate of any connected audio device on macOS. Uses [SimplyCoreAudio](https://github.com/rnine/SimplyCoreAudio) to greatly simplify interactions with CoreAudio.
 
 ### Usage
 
@@ -10,9 +10,9 @@ _Example:_
 
 `ChangeAudioFormat -d "External Headphones" -s 48000`
 
-Can be installed by building and copying the executable from Xcode's build folder to /usr/local/bin.
+### Installation
 
-Uses [SimplyCoreAudio](https://github.com/rnine/SimplyCoreAudio) to greatly simplify interactions with CoreAudio.
+Use Xcode to build and copy the executable from Xcode's build folder to /usr/local/bin.
 
 ### License
 
