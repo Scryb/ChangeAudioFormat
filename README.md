@@ -18,4 +18,4 @@ Use Xcode to build and copy the executable from Xcode's build folder to /usr/loc
 
 ### License
 
-ChangeAudioFormat was written by Anders Lundberg (@scryb) in 2026 and is licensed under the MIT license. See [Licence.md](https://github.com/Scryb/ChangeAudioFormat/blob/main/License.md).
+ChangeAudioFormat was written by Anders Lundberg (@scryb) in 2026 and is licensed under the MIT license. See [License.md](https://github.com/Scryb/ChangeAudioFormat/blob/main/License.md).
