@@ -1,6 +1,6 @@
 ## ChangeAudioFormat
 
-Simple command line tool to change the sample rate of any connected audio device on macOS. Uses [SimplyCoreAudio](https://github.com/rnine/SimplyCoreAudio) to greatly simplify interactions with CoreAudio.
+Simple command line tool to change the sample rate of any connected audio device on macOS. Uses [SimplyCoreAudio](https://github.com/rnine/SimplyCoreAudio) to greatly simplify interactions with CoreAudio. Audio MIDI Setup is not AppleScript-aware and there's no built-in way to set sample rate through the command line or AppleScript.
 
 ### Usage
 
