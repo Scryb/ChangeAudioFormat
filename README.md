@@ -14,7 +14,7 @@ Will exit with an error message if device doesn't exist, doesn't support the sam
 
 ### Installation
 
-Use Xcode to build and copy the executable from Xcode's build folder to /usr/local/bin.
+Download ChangeAudioFormat.pkg, run and follow instructions to install to /usr/local/bin, which should already be in your $PATH. Or clone the code and use Xcode to build and copy the executable from Xcode's build folder to /usr/local/bin.
 
 ### License
 
